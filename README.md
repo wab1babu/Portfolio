@@ -5,9 +5,9 @@
  Project 2 is a program that automatically prints the car rental charge.  
  Project 3 is to create an array for a drawing grid.  
  Project 4 is to practice the use of arrays, including appending, looking up an item, rotating a string left, checking for duplicates, reversing order, finding subsequences, looking if an item is in two arrays, and ordering an array.  
- Project 5 is to implement a decryptor.  
+ Project 5 is about implementing a decryptor.  
  Project 6 consists of several small tasks regarding pointers.  
- Project 7 is to implement a console game called “Gone with the Wind”  
+ Project 7 is about implementing a console game called “Gone with the Wind”  
 ## Python:
  Implementing a Catalan Cards Game  
  Application of Stochastic Process  
