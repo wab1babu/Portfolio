@@ -1,5 +1,6 @@
 # This is Shulin Long’s Portfolio! 
-## C++: Projects I did when I had introductory C++ course at UCLA
+## C++: 
+ Projects I did when I had introductory C++ course at UCLA:  
  Project 1 includes the understanding of compile, logical and runtime errors.  
  Project 2 is a program that automatically prints the car rental charge.  
  Project 3 is to create an array for a drawing grid.  
@@ -10,7 +11,9 @@
 ## Python:
  Implementing a Catalan Cards Game  
  Application of Stochastic Process  
-## MATLAB: all related to optimization problems.
+## MATLAB: 
+ All related to optimization problems:  
  Data fitting problems using gradient descent method, Gauss-Newton method, LBFGS, and log barrier method  
  Sphere packing problem using penalty method  
-## R (and little SQL): Includes all notes and practice problems when I had Principles of Data Science course at UCSB
+## R (and little SQL): 
+ Includes all notes and practice problems when I had Principles of Data Science course at UCSB
