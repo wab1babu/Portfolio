@@ -5,7 +5,7 @@
  Project 2 is a program that automatically prints the car rental charge, using control statement.    
  Project 3 is a program that sets a roadblock to see if a person can go from beginning to end after entering steps and directions.    
  Project 4 is to practice the use of arrays, including appending, looking up an item, rotating a string left, checking for duplicates, reversing order, finding subsequences, looking if an item is in two arrays, and ordering an array.  
- Project 5 is about implementing a decryptor that can autommatically detect whether the ciphertext match to the original text.
+ Project 5 is about implementing a decryptor that can autommatically detect whether the ciphertext match to the original text.  
  Project 6 consists of several small tasks regarding pointers.  
  Project 7 is about implementing a console game called “Gone with the Wind”  
 ## Python:
